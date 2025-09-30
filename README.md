@@ -74,5 +74,16 @@
 - إمكانية **تعديل بيانات الحساب الشخصي** (الاسم، البريد، كلمة المرور، التفاصيل الأخرى).  
 
   ### Screenshots
- ![صورة الإعدادات](https://techbridge.top/public/images/setting/sAAr1Qq6ozue2Zz2Yhy4R25PEqIwPjJ06LXI8Kp9.png)
-
+![Login](screenshots/1.png)
+![Login](screenshots/2.png)
+![Login](screenshots/3.png)
+![Login](screenshots/4.png)
+![Login](screenshots/5.png)
+![Login](screenshots/6.png)
+![Login](screenshots/7.png)
+![Login](screenshots/8.png)
+![Login](screenshots/9.png)
+![Login](screenshots/10.png)
+![Login](screenshots/11.png)
+![Login](screenshots/12.png)
+ 
