@@ -74,4 +74,5 @@
 - إمكانية **تعديل بيانات الحساب الشخصي** (الاسم، البريد، كلمة المرور، التفاصيل الأخرى).  
 
   ### Screenshots
-![Settings Page](https://raw.githubusercontent.com/public/images/setting/sAAr1Qq6ozue2Zz2Yhy4R25PEqIwPjJ06LXI8Kp9.png)
+ ![صورة الإعدادات](https://techbridge.top/public/images/setting/sAAr1Qq6ozue2Zz2Yhy4R25PEqIwPjJ06LXI8Kp9.png)
+
